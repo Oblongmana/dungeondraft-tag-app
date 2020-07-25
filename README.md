@@ -33,6 +33,10 @@ At a very basic level:
 
 Note that this DOES NOT create sets. You'll need to wrangle those by hand.
 
+Here's a demo gif - assets here are the Mythic Age Assets pack by Caeora (https://www.patreon.com/posts/mythic-age-38706151), who you should absolutely support, if you've got a few spare dollars lying around.
+
+!["Basic usage of the app"](images/BasicUsage.gif)
+
 ## Contributing
 
 The App could be tidier - this was a one-day hack type of deal to solve a problem and re-learn React, and dip my toes into material-ui.
