@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a32a0b65196e859e944c49c8e419bca5",
+    "revision": "096559c8d6396b33a2dad2ed7ac526ae",
     "url": "/dungeondraft-tag-app/index.html"
   },
   {

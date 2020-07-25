@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dungeondraft-tag-app/precache-manifest.57e7ad9fdf81576f008e57a955c506fe.js"
+  "/dungeondraft-tag-app/precache-manifest.3ede0621b7a0cd6e67cd8639410fc1ef.js"
 );
 
 self.addEventListener('message', (event) => {
