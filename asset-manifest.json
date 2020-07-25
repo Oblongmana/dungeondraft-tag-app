@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dungeondraft-tag-app/static/css/main.1d0654d1.chunk.css",
-    "main.js": "/dungeondraft-tag-app/static/js/main.b8ec0e01.chunk.js",
-    "main.js.map": "/dungeondraft-tag-app/static/js/main.b8ec0e01.chunk.js.map",
+    "main.js": "/dungeondraft-tag-app/static/js/main.593446d4.chunk.js",
+    "main.js.map": "/dungeondraft-tag-app/static/js/main.593446d4.chunk.js.map",
     "runtime-main.js": "/dungeondraft-tag-app/static/js/runtime-main.4a41d901.js",
     "runtime-main.js.map": "/dungeondraft-tag-app/static/js/runtime-main.4a41d901.js.map",
     "static/js/2.48b9541a.chunk.js": "/dungeondraft-tag-app/static/js/2.48b9541a.chunk.js",
     "static/js/2.48b9541a.chunk.js.map": "/dungeondraft-tag-app/static/js/2.48b9541a.chunk.js.map",
     "index.html": "/dungeondraft-tag-app/index.html",
-    "precache-manifest.120035dc02115f6c9a370d72a0597850.js": "/dungeondraft-tag-app/precache-manifest.120035dc02115f6c9a370d72a0597850.js",
+    "precache-manifest.57e7ad9fdf81576f008e57a955c506fe.js": "/dungeondraft-tag-app/precache-manifest.57e7ad9fdf81576f008e57a955c506fe.js",
     "service-worker.js": "/dungeondraft-tag-app/service-worker.js",
     "static/css/main.1d0654d1.chunk.css.map": "/dungeondraft-tag-app/static/css/main.1d0654d1.chunk.css.map",
     "static/js/2.48b9541a.chunk.js.LICENSE.txt": "/dungeondraft-tag-app/static/js/2.48b9541a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4a41d901.js",
     "static/js/2.48b9541a.chunk.js",
     "static/css/main.1d0654d1.chunk.css",
-    "static/js/main.b8ec0e01.chunk.js"
+    "static/js/main.593446d4.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eba6474e69e0e2c42165f8f0c5452130",
+    "revision": "a32a0b65196e859e944c49c8e419bca5",
     "url": "/dungeondraft-tag-app/index.html"
   },
   {
-    "revision": "100d5dfced51e25a51a0",
+    "revision": "8fba0b19be0dece58a49",
     "url": "/dungeondraft-tag-app/static/css/main.1d0654d1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dungeondraft-tag-app/static/js/2.48b9541a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "100d5dfced51e25a51a0",
-    "url": "/dungeondraft-tag-app/static/js/main.b8ec0e01.chunk.js"
+    "revision": "8fba0b19be0dece58a49",
+    "url": "/dungeondraft-tag-app/static/js/main.593446d4.chunk.js"
   },
   {
     "revision": "1c200665b5f60e8d822c",
