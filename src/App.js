@@ -198,16 +198,19 @@ class App extends React.Component {
                         >
                             <WarningIcon color="primary" />
                             <Typography color="textPrimary" className={"App-accordion-header"}> Info</Typography>
-                            <Typography color="textSecondary" align="center">Bugs, browser support, privacy, and source code</Typography>
+                            <Typography color="textSecondary" align="center">Bugs, browser support, privacy, source code, and a how-to demo gif</Typography>
                         </AccordionSummary>
                         <Alert severity="warning">
-                            Please note that this app is in beta - there are likely to be bugs. If you come across any, let me know at <a href="https://github.com/Oblongmana/dungeondraft-tag-app/issues">https://github.com/Oblongmana/dungeondraft-tag-app/issues</a>. (Really it was one-day hack to relearn React and start learning material-ui, as you can tell from the simplistic UI<SentimentSatisfiedIcon/>)
+                            Please note that this app is in beta - there are likely to be bugs. If you come across any, let me know at <a target="_blank" rel="noopener noreferrer" href="https://github.com/Oblongmana/dungeondraft-tag-app/issues">https://github.com/Oblongmana/dungeondraft-tag-app/issues</a>. (Really it was one-day hack to relearn React and start learning material-ui, as you can tell from the simplistic UI<SentimentSatisfiedIcon/>)
                         </Alert>
                         <Alert severity="warning">
                             Please note that this app uses functionality that is not supported by all browsers, though is supported by most modern desktop browsers. If you see this message - you're likely using a modern browser! If you run into any issues though, see the issue reporting link above.
                         </Alert>
                         <Alert severity="info">
-                            Your files will remain private, and will not be uploaded to any servers, or in any way transmitted anywhere - but feel free to verify this yourself! Source code can be viewed at <a href="https://github.com/Oblongmana/dungeondraft-tag-app">https://github.com/Oblongmana/dungeondraft-tag-app</a>.
+                            Your files will remain private, and will not be uploaded to any servers, or in any way transmitted anywhere - but feel free to verify this yourself! Source code can be viewed at <a target="_blank" rel="noopener noreferrer" href="https://github.com/Oblongmana/dungeondraft-tag-app">https://github.com/Oblongmana/dungeondraft-tag-app</a>.
+                        </Alert>
+                        <Alert severity="info">
+                            If you'd like to watch a basic how-to, one is available at <a target="_blank" rel="noopener noreferrer" href="https://github.com/Oblongmana/dungeondraft-tag-app#how-to-use">https://github.com/Oblongmana/dungeondraft-tag-app#how-to-use</a>. I recommend just having a go though - this app won't modify anything on your system, it just produces a downloadable tag file at the end.
                         </Alert>
                     </Accordion>
                 </Paper>
